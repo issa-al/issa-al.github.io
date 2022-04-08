@@ -19,11 +19,14 @@ npm install
 # Run frontend (:3000) & backend (:5000)
 npm run dev
 
-
+# Run backend only
+npm run server
+```
 
 
 
 ### Seed Database
+
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
 ```
@@ -46,6 +49,3 @@ peter@example.com (Customer)
 alexa@example.com (Customer)
 123456
 ```
-
-
-
