@@ -1,19 +1,5 @@
 # Travel Agency Platform
 
-# Website Feature:
-```
-
-First, log in with a Customer account.( Peter or Alexa) 
-Then select a trip and continue. In the next window you can specify the number of reservations and then your address and payment method. 
-You can pay with Paypal Sandbox account, then the status will change from "not Paid" to "paid on "Date" ".
-
-Now log out and login as admin with the admin email. 
-As admin you can see which users there exist. 
-Which Tours there are and update these Tours, or delete them. 
-And the orders that have been placed by the users. You can also check the payment status.
-
-```
-
 
 
 ## Usage
@@ -61,4 +47,18 @@ peter@example.com (Customer)
 
 alexa@example.com (Customer)
 123456
+```
+
+# Website Feature:
+```
+
+First, log in with a Customer account.( Peter or Alexa) 
+Then select a trip and continue. In the next window you can specify the number of reservations and then your address and payment method. 
+You can pay with Paypal Sandbox account, then the status will change from "not Paid" to "paid on "Date" ".
+
+Now log out and login as admin with the admin email. 
+As admin you can see which users there exist. 
+Which Tours there are and update these Tours, or delete them. 
+And the orders that have been placed by the users. You can also check the payment status.
+
 ```
