@@ -12,8 +12,6 @@ As admin you can see which users there exist.
 Which Tours there are and update these Tours, or delete them. 
 And the orders that have been placed by the users. You can also check the payment status.
 
-Translated with www.DeepL.com/Translator (free version)
-
 ```
 
 
